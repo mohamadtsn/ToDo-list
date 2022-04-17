@@ -1,7 +1,7 @@
 // Inject Styles
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './assets/css/index.css';
-import './assets/css/fortawesome.css';
+import '@mohamadtsn/fontawesome-icon/dist/css/all.min.css';
 
 // Inject Libs
 import React from 'react';
